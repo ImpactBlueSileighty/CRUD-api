@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UniCardApi", "UniCardApi\UniCardApi.csproj", "{829A74FF-61CF-418D-8BF5-CE1714496CE6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{829A74FF-61CF-418D-8BF5-CE1714496CE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{829A74FF-61CF-418D-8BF5-CE1714496CE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{829A74FF-61CF-418D-8BF5-CE1714496CE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{829A74FF-61CF-418D-8BF5-CE1714496CE6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {73CA9C4D-BA39-4565-9D2F-A9A2A8EEA6AE}
+	EndGlobalSection
+EndGlobal
